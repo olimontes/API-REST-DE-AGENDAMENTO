@@ -40,7 +40,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://[URL-DO-SEU-REPOSITORIO-NO-GITHUB].git
+    git clone https://https://github.com/olimontes/API-REST-DE-AGENDAMENTO.git
     cd agendamento-api
     ```
 
