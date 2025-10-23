@@ -27,8 +27,8 @@ Este projeto é uma API RESTful para um sistema de agendamentos, desenvolvida co
     * PostgreSQL
 * **Build:**
     * Maven
- 
-      ## ⚙️ Pré-requisitos
+
+## ⚙️ Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina:
 * [JDK 21](https://www.oracle.com/java/technologies/downloads/#jdk21-windows) ou superior.
@@ -75,11 +75,6 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 A API estará no ar e pronta para receber requisições em `http://localhost:8081`.
 
-## 📖 Endpoints da API
-
-Aqui estão os endpoints disponíveis para teste no Postman:
-
----
 
 ### 👤 Usuários
 
