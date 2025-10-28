@@ -40,7 +40,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://https://github.com/olimontes/API-REST-DE-AGENDAMENTO.git
+    git clone https://https://github.com/olimontes/ApiRestAgendamento.git
     cd agendamento-api
     ```
 
